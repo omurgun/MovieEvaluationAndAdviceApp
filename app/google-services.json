@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810692970314",
+    "firebase_url": "https://movieevaluationandadviceapp.firebaseio.com",
+    "project_id": "movieevaluationandadviceapp",
+    "storage_bucket": "movieevaluationandadviceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810692970314:android:a32a5802835142eec863b3",
+        "android_client_info": {
+          "package_name": "com.omurgun.movieevaluationandadviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810692970314-c95tqg9scdcm18ebq6hr6aqlhdl84ote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQw9_cRP6p8hON_i8JtqXkd32FD0KMhnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810692970314-c95tqg9scdcm18ebq6hr6aqlhdl84ote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
